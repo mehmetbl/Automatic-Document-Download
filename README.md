@@ -1,4 +1,4 @@
-# Selenium ile Mezuniyet Belgesi İndirme
-Bu proje, kimlik numarası ve e-devlet şifresini aldıktan sonra kişinin Yükseköğretim Mezun Belgesini otomatik olarak indirmeyi sağlar.<br>
-Projede Selenium kütüphanesi kullanılmıştır.
+# Automatic Document Download
+This project automatically downloads graduation certificates once it receives the user's identification number and e-government password. <br>
+Selenium library was used in the project.
 
